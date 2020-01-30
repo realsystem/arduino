@@ -1,4 +1,4 @@
-# Controller for two channel thermostat.
+# Controller for two channel thermostat
 
 You need your own esp8266_dht11.h with telegram bot credentials and wifi info.
 
